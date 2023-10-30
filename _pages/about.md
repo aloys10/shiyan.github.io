@@ -13,6 +13,4 @@ I'm a last year undergraduate student from [School of Cyber Science and engineer
 
 I am very fortunate to be advised by [Prof. Ou Changhai](https://www.researchgate.net/profile/Changhai-Ou), Wuhan University.
 
-You can find my CV here: [Shi Yan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](mailto:yanshi@whu.edu.cn) / 

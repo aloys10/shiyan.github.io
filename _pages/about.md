@@ -15,4 +15,4 @@ I am very fortunate to be advised by [Prof. Ou Changhai](https://www.researchgat
 
 You can find my CV here: [Shi Yan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Here is my [Email](mailto:shiyan.aloys@gmail.com) 
+Here is my [Email](mailto:shiyan.aloys@gmail.com).

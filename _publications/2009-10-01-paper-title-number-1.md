@@ -3,7 +3,7 @@ title: "Collision Spanning Tree: Quick Key Recovery for Side-Channel Collision A
 collection: Under review
 permalink: 
 excerpt: ''
-date: 2023-11
+date: 
 venue: ''
 paperurl: ''
 citation: ''

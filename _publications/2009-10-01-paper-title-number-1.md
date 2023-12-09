@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Collision Spanning Tree: Quick Key Recovery for Side-Channel Collision Attacks"
+collection: Under review
+permalink: 
+excerpt: ''
+date: 2023-11
+venue: ''
+paperurl: ''
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Abstract: Benefiting from collision information, collision based side-channel key recovery tools like Correlation-enhanced Collision Attack (CECA), can quickly eliminate erroneous key candidates, enabling more efficient key recovery. However, the existing side-channel collision tools still face with slow collision detection speed and low utilization of collision information. To tackle this, dispersion of correlation coefficients of each collision in CECA is used to detect positions with best ranking of collision values, which are the most favorable for key recovery. We then build a Collision Spanning Tree (CSTree) on these collision positions and exploit circuits check to check the satisfiability of collision conditions during tree creation. Experiments results on AES-128 well illustrate the superiority of our scheme.

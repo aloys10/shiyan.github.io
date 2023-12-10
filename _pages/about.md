@@ -1,18 +1,42 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<span class='anchor' id='about-me'></span>
+{% include_relative includes/intro.md %}
 
-I'm a last year undergraduate student from [School of Cyber Science and engineering](https://cse.whu.edu.cn), [Wuhan University](https://www.whu.edu.cn/). My research interest includes side-channel attacks, AI security, machine learning, and privacy computing.
+{% include_relative includes/news.md %}
 
-I am very fortunate to be advised by [Prof. Ou Changhai](https://www.researchgate.net/profile/Changhai-Ou), Wuhan University.
+{% include_relative includes/pub.md %}
 
-You can find my CV here: [Shi Yan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+{% include_relative includes/honers.md %}
 
-Here is my [Email](mailto:shiyan.aloys@gmail.com).
+{% include_relative includes/others.md %}
+
+
+<footer> 
+  <hr>
+<p>Last updated on：<span id="date"></span> . This guy makes a nice <a href="https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social">   webpage.</a></p>
+
+<script>
+    var today = new Date();
+    var year = today.getFullYear();
+    var month = today.getMonth() + 1;
+    var day = today.getDate();
+    var dateElement = document.getElementById("date");
+    var formattedDate = ("0" + (today.getMonth() + 1)).slice(-2) + "-" + ("0" + today.getDate()).slice(-2) + "-" + today.getFullYear();
+    dateElement.innerHTML = formattedDate;
+</script>
+
+
+  
+
+
+</footer>
+

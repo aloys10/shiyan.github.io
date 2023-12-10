@@ -13,7 +13,7 @@
 </style>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/cstree.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='../../images/cstree.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Collision Spanning Tree: Quick Key Recovery for Side-Channel Collision Attacks] \\

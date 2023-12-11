@@ -1,6 +1,6 @@
 # 🧐 About Me
 
-Hi there! I am a last-year bachelor student in [School of Cyber Science and engineering](https://cse.whu.edu.cn), under the supervision of Prof. [Prof. Ou Changhai](https://www.researchgate.net/profile/Changhai-Ou).
+Hi there! I am a last-year bachelor student in [School of Cyber Science and engineering](https://cse.whu.edu.cn), under the supervision of [Prof. Ou Changhai](https://www.researchgate.net/profile/Changhai-Ou).
 
 
 <!-- Previously, I interned at Sony AI for half a year, focusing on AI security and model compression. Before that, I also interned at Tencent Youtu Lab for one year, exploring federated learning and adversarial attacks. -->

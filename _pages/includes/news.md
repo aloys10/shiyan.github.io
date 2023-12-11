@@ -9,7 +9,7 @@
 
 <div class="scrollable">
   <ul>
-    <li><strong>2023.11</strong>: Prepared for submission to Design Automation Conference 2024 (DAC2024) </li>
+    <li><strong>2023.11</strong>: Prepared for submission to Design Automation Conference 2024 (DAC2024) [Paper: Collision Spanning Tree: Quick Key Recovery for Side-Channel Collision Attacks]</li>
   </ul>
 </div>
 

@@ -1,6 +1,7 @@
 
 # 📖 Educations
-- <sup>&#x1F393;</sup>  *2020.09 - 2024.06 (Expected)*, Bachelor, Wuhan University, China.
+- <sup>&#x1F393;</sup>  *2020.09 - 2024.06*, Bachelor, Wuhan University, China.
+- <sup>&#x1F393;</sup>  *2024.09 - 2025.09 (Expected)*, MSc Machine Learning, University College London, UK.
 
 # 🎙 Miscellaneous
 
